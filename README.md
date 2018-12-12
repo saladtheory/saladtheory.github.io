@@ -2,7 +2,7 @@
 A comprehensive, precise, and pedantic branch of set theory pertaining to food categorization.
 
 ## Background
-In our office, we sometimes enjoy pedantic conversations where we attempt to properly define ambiguous terms. Naturally, when the [sandwich controversy](https://knowyourmeme.com/memes/is-a-hot-dog-a-sandwich) took the world by storm around 2016<sup>[4](#ft4)</sup>, we were interested.
+In our office, we sometimes enjoy pedantic conversations where we attempt to properly define ambiguous terms. Naturally, when the [sandwich controversy](https://knowyourmeme.com/memes/is-a-hot-dog-a-sandwich) took the world by storm around 2016 <sup>[[4]](#ft4)</sup>, we were interested.
 
 We talked a lot about sandwiches, then went beyond. The sandwich debates spun off numerous side discussions regarding the categorization of other foods. Fatefully, one coworker raised the question of whether a salad could be called a pizza.
 
@@ -12,8 +12,8 @@ Many heated lunchtime conversations ensued. We attacked the problem from differe
 
 But the truth could not be avoided. Begrudingly, the office pedants were forced to reach an agreement: All edible foods are salads.
 
-We wrote up our conclusions in an internal document in May 2017. We were content to keep this dark knowledge to ourselves, but alas,
-spurred by the release of food category theories which clearly misrepresent the nature of salads<sup>[6](#ft6)</sup>, the time has come to share our
+We wrote up our conclusions in an internal document in May 2017. We were content to keep this dark knowledge to ourselves, but alas.
+Spurred by the release of food category theories which clearly misrepresent the nature of salads<sup>[[6]](#ft6)</sup>, the time has come to share our
 findings with the world.
 
 ## Derivation
@@ -24,36 +24,28 @@ findings with the world.
 
 ### Considered Definitions and Restrictions
 #### Traditional
-```
-A salad must be a mixture of greens.
-```
+> A salad must be a mixture of greens.
 
 This definition is simple and restrictive, which is good. Unfortunately, it is too restrictive.
 
 We rejected this definition because it violates assumption (1) by excluding fruit salads, chicken salads, pasta salads, and tuna salads.
 
 #### Well-Mixed
-```
-A salad must be a mixture of foods such that a typical person would
-not notice a difference if the relative position and orientation of
-its ingredients were randomized.
-```
+> A salad must be a mixture of foods such that a typical person would
+> not notice a difference if the relative position and orientation of
+> its ingredients were randomized.
 
 This definition comes close, but it notably excludes an untossed salad, while still including things that are less salad-like than an untossed salad (e.g. a bowl of mixed nuts) which seems preposterous.
 
 Notably, by this definition, most foods (e.g., sandwiches) are still arguably "untossed" salads.
 
 #### Explicit Inclusions
-```
-The set of things that are salads is the set of things in listed in assumption (2).
-```
+> The set of things that are salads is the set of things in listed in assumption (2).
 
 This definition violates assumption 3; merely enumerating a long list of things that *are* salads produces a lazy and cumbersome definition. It also plausibly includes things like a bunch of bananas (fruit salad), so it isn't even very restrictive for all its arbitrary complexity.
 
 #### Explicit Exclusions
-```
-A salad may not contain bread (etc etc).
-```
+> A salad may not contain bread (etc etc).
 
 This condition is not a complete definition unto itself; it is an attempt to restrict the definition to exclude sandwiches and similar foods. This condition has two problems.
 
@@ -62,18 +54,14 @@ First, it fails assumption (1). It plausibly excludes a caeser salad, and possib
 Second, it fails assumption (3). The bread exclusion is arbitrary; there's no clear reason to exclude bread but not a variet of other ingredients (e.g. nuts, candy, ice, jams, steaks, lasagna). Including an individual exclusion for each item clearly produces an impracticle, overly-complicated, and probably wrong definition.
 
 #### Solid Content
-```
-A salad must be mostly composed of solid content.
-```
+> A salad must be mostly composed of solid content.
 
 This definition *sounds* reasonable, but it turns out the devil is in the details of how you define "mostly". At what point have you poured in so much balsamic vinaigrette that something stops being a salad?
 
 After much discussion, we ultimately concluded that we have no way of formally distinguishing between a "salad" and a "soup", leading us to Theorem 1.
 
 #### Ingredient Count
-```
-A salad must contain at least two ingredients.
-```
+> A salad must contain at least two ingredients.
 
 This definition satisfies all of our assumptions. It is also very broad. A coke might not be, but a coke with ice in it is. An individual apple is not a salad, but a pair of apples is a fruit salad. A head of lettuce isn't a salad until you separate the leaves.
 
@@ -112,7 +100,7 @@ This is actually broader than our definition: we restrict ours to edible ingredi
 ## The Theory
 ### Theorem 1: Soup-Salad Duality
 
-All foods are formally affine combinations of soups and hyper-salads. We describe this measure as a food’s “soupiness” coefficient, where a food with soupiness=0 contains no exterior liquid, and a food with soupiness=1 contains no solid components <sup>[1](#ft1)</sup>.
+All foods are formally affine combinations of soups and hyper-salads. We describe this measure as a food’s “soupiness” coefficient, where a food with soupiness=0 contains no exterior liquid, and a food with soupiness=1 contains no solid components <sup>[[1]](#ft1)</sup>.
 
 Colloquially, foods which have soupiness above a certain value tend to be regarded as “soups” (with their liquid components being considered to be “broth”), whereas foods which have soupiness below a certain value tend to be regarded as “salads” (with their liquid components being considered to be “dressing”). With the possible exception of the boundaries (foods which have a soupiness of exactly 0 or 1), Salad Theory does not formally recognize a meaningful distinction between a soupy salad or a salady soup. That is:
 
@@ -123,13 +111,13 @@ Given that “soups” and “salads” are not meaningfully distinct, we arbitr
 
 ### Theorem 2: Salads, Hyper-salads, and Saladoids.
 
-A salad requires a certain minimum degree of entropy to be classified as such. Individual solid food items in isolation do not have enough entropy to be full salads, and are instead classified as low-dimensional hyper-salads (i.e. hypo-salads <sup>[2](#ft2)</sup>), or low-entropy saladoids.
+A salad requires a certain minimum degree of entropy to be classified as such. Individual solid food items in isolation do not have enough entropy to be full salads, and are instead classified as low-dimensional hyper-salads (i.e. hypo-salads <sup>[[2]](#ft2)</sup>), or low-entropy saladoids.
 
 Thus, a single apple is a low-entropy saladoid, but a set of apple slices is a fruit salad (or, more precisely, an apple salad).
 
 ### Theorem 3. Allowed Operations
 1. Salads are closed under union and addition (the union of a salad and anything else is a salad).
-2. Salads are not closed under subtraction (removing elements from a salad will either produce a salad or a low-entropy saladoid)<sup>[3](#ft3)</sup>.
+2. Salads are not closed under subtraction (removing elements from a salad will either produce a salad or a low-entropy saladoid) <sup>[[3]](#ft3)</sup>.
 
 ## Appendix A: Notable Examples
 ### Sandwiches
@@ -165,7 +153,7 @@ A bowl of nuts is clearly a salad. This isn't very radical; people often include
 A coke with ice is a salad. It has multiple edible ingredients. The coke is the dressing (or equivalently, the broth of the coke soup).
 
 Note that we tried for a while to restrict our definition of "salad" to ingredients which were food. Unfortunately, we failed
-to find a self-consistent definition of food<sup>[5](#ft5)</sup> that didn't simply encompass all edible materials.
+to find a self-consistent definition of food<sup>[[5]](#ft5)</sup> that didn't simply encompass all edible materials.
 
 ### A bowl of skittles
 A bowl of skittles is a dry salad.
@@ -181,6 +169,12 @@ position is clearly the only logical conclusion.
 While it may be tempting to align yourself with something as attractive as "structural purist, ingredient neutral",
 the sad truth is that there is no formal way to define exactly what is and what isn't included in "broader scope
 of ingredients". Likewise, structure is troublesome to define in terms of liquid content, as described in Theorem 1.1.
+
+## Community
+If you'd like to submit another example or a clarification, PRs are welcome.
+
+
+If you'd like to formally dissent with our theory in any way, please submit a github issue.
 
 ## Footnotes
 1. <a name="ft1">It can be trivially shown that a food with soupiness=1 is indistinguishable from a beverage.</a>
