@@ -179,7 +179,7 @@ of ingredients". Likewise, structure is troublesome to define in terms of liquid
 If you'd like to submit another example or a clarification, PRs are welcome.
 
 
-If you'd like to formally dissent with our theory in any way, please submit a github issue.
+If you'd like to formally dissent with our theory in any way, please submit a github [issue](https://github.com/saladtheory/saladtheory.github.io/issues).
 
 ## Footnotes
 <a name="ft1">[1]</a> It can be trivially shown that a food with soupiness=1 is indistinguishable from a beverage.
@@ -191,7 +191,7 @@ If you'd like to formally dissent with our theory in any way, please submit a gi
 <a name="ft3">[3]</a> According to google search trends.
 
 
-<a name="ft4">[4]</a> Merriam-Webster's <a href="https://www.merriam-webster.com/dictionary/food">definitions of food</a>,
+<a name="ft4">[4]</a> Merriam-Webster's [definitions of food](https://www.merriam-webster.com/dictionary/food),
    for example, do seem to at least include candy and mineral water (and by extension, ice made from anything but pure
    distilled water).
 
