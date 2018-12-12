@@ -67,8 +67,8 @@ This definition satisfies all of our assumptions. It is also very broad. A coke 
 
 This definition is ultimately the only self-consistent definition we could agree upon. Semantically, we refer to all collections of more than one ingredient a "salad", and solitary food items as "low-entropy hyper-salads"/"hypo-salads"/"proto-salads". See Theorem 2.
 
-#### Merriam Webster 1
-[Merriam Webster](https://www.merriam-webster.com/dictionary/salad)'s first definition of a salad is:
+#### Merriam-Webster 1
+[Merriam-Webster](https://www.merriam-webster.com/dictionary/salad)'s first definition of a salad is:
 ```
 Any of various usually cold dishes: such as
   a : raw greens (such as lettuce) often combined with other vegetables
@@ -83,7 +83,7 @@ While people might object to serving a hot salad, it certainly seems bizarre and
 
 We conclude that this definition does not meet the necessary rigor for a proper salad definition, and additionally it plausibly violates our assumption (3) by addition arbitrary limitations on temperature.
 
-#### Merriam Webster 2
+#### Merriam-Webster 2
 ```
 A green vegetable or herb grown for salad
 especially : LETTUCE
@@ -91,7 +91,7 @@ especially : LETTUCE
 
 In addition to being self-referential, this definition fails (1) by excluding tuna salad (among others), while still including things like a head of lettuce.
 
-#### Merriam Webster 3
+#### Merriam-Webster 3
 ```
 A usually incongruous mixture : HODGEPODGE
 ```
@@ -115,7 +115,7 @@ A salad requires a certain minimum degree of entropy to be classified as such. I
 
 Thus, a single apple is a low-entropy saladoid, but a set of apple slices is a fruit salad (or, more precisely, an apple salad).
 
-### Theorem 3. Allowed Operations
+### Theorem 3: Allowed Operations
 1. Salads are closed under union and addition (the union of a salad and anything else is a salad).
 2. Salads are not closed under subtraction (removing elements from a salad will either produce a salad or a low-entropy saladoid).
 
