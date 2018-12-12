@@ -2,7 +2,7 @@
 A comprehensive, precise, and pedantic branch of set theory pertaining to food categorization.
 
 ## Background
-In our office, we sometimes enjoy pedantic conversations where we attempt to properly define ambiguous terms. Naturally, when the [sandwich controversy](https://knowyourmeme.com/memes/is-a-hot-dog-a-sandwich) took the world by storm around 2016 <sup>[[4]](#ft4)</sup>, we were interested.
+In our office, we sometimes enjoy pedantic conversations where we attempt to properly define ambiguous terms. Naturally, when the [sandwich controversy](https://knowyourmeme.com/memes/is-a-hot-dog-a-sandwich) took the world by storm around 2016 <sup>[[3]](#ft3)</sup>, we were interested.
 
 We talked a lot about sandwiches, then went beyond. The sandwich debates spun off numerous side discussions regarding the categorization of other foods. Fatefully, one coworker raised the question of whether a salad could be called a pizza.
 
@@ -13,7 +13,7 @@ Many heated lunchtime conversations ensued. We attacked the problem from differe
 But the truth could not be avoided. Begrudingly, the office pedants were forced to reach an agreement: All edible foods are salads.
 
 We wrote up our conclusions in an internal document in May 2017. We were content to keep this dark knowledge to ourselves, but alas.
-Spurred by the release of food category theories which clearly misrepresent the nature of salads<sup>[[6]](#ft6)</sup>, the time has come to share our
+Spurred by the release of food category theories which clearly misrepresent the nature of salads<sup>[[5]](#ft5)</sup>, the time has come to share our
 findings with the world.
 
 ## Derivation
@@ -40,7 +40,7 @@ This definition comes close, but it notably excludes an untossed salad, while st
 Notably, by this definition, most foods (e.g., sandwiches) are still arguably "untossed" salads.
 
 #### Explicit Inclusions
-> The set of things that are salads is the set of things in listed in assumption (2).
+> The set of things that are salads is the set of things listed in assumption (2).
 
 This definition violates assumption 3; merely enumerating a long list of things that *are* salads produces a lazy and cumbersome definition. It also plausibly includes things like a bunch of bananas (fruit salad), so it isn't even very restrictive for all its arbitrary complexity.
 
@@ -117,7 +117,7 @@ Thus, a single apple is a low-entropy saladoid, but a set of apple slices is a f
 
 ### Theorem 3. Allowed Operations
 1. Salads are closed under union and addition (the union of a salad and anything else is a salad).
-2. Salads are not closed under subtraction (removing elements from a salad will either produce a salad or a low-entropy saladoid) <sup>[[3]](#ft3)</sup>.
+2. Salads are not closed under subtraction (removing elements from a salad will either produce a salad or a low-entropy saladoid).
 
 ## Appendix A: Notable Examples
 ### Sandwiches
@@ -135,7 +135,12 @@ Tomato Sauce | Tomatoes
 Cheese | Cheese
 Greens (Peppers, Spinach, etc) | Greens (Lettuce, Spinach, etc)
 
-Both Pizza and traditional lettuce-based salads can have a wide variety of toppings while people still colloquially acknowledge them as members of their respective groups. They're both even often eaten with ranch dressing.
+Both Pizza and traditional lettuce-based salads can have a wide variety of toppings while people still colloquially acknowledge them as members of their respective groups. They're both even often eaten with ranch or blue cheese dressings.
+
+Structurally, some may take issue because Pizza is (for the most part) bound together in a single piece.
+This isn't actually a problem: even Merriam-Webster's first definition makes reference to salads with
+pieces bound together with gelatin. If binding ingredients together with jello is valid, surely
+binding them together with cheese instead is no issue.
 
 ### Tacos
 A taco is an untossed taco salad.
@@ -153,7 +158,7 @@ A bowl of nuts is clearly a salad. This isn't very radical; people often include
 A coke with ice is a salad. It has multiple edible ingredients. The coke is the dressing (or equivalently, the broth of the coke soup).
 
 Note that we tried for a while to restrict our definition of "salad" to ingredients which were food. Unfortunately, we failed
-to find a self-consistent definition of food<sup>[[5]](#ft5)</sup> that didn't simply encompass all edible materials.
+to find a self-consistent definition of food<sup>[[4]](#ft4)</sup> that didn't simply encompass all edible materials.
 
 ### A bowl of skittles
 A bowl of skittles is a dry salad.
@@ -183,22 +188,19 @@ If you'd like to formally dissent with our theory in any way, please submit a gi
 <a name="ft2">[2]</a> Much in the same way that a line is formally a low-dimensional hyper-plane.
 
 
-<a name="ft3">[3]</a> Note that hyper-salads actually *are* closed under subtraction.
+<a name="ft3">[3]</a> According to google search trends.
 
 
-<a name="ft4">[4]</a> According to google search trends.
-
-
-<a name="ft5">[5]</a> Merriam-Webster's <a href="https://www.merriam-webster.com/dictionary/food">definitions of food</a>,
+<a name="ft4">[4]</a> Merriam-Webster's <a href="https://www.merriam-webster.com/dictionary/food">definitions of food</a>,
    for example, do seem to at least include candy and mineral water (and by extension, ice made from anything but pure
    distilled water).
 
 
-<a name="ft6">[6]</a> Specifically, [cuberule](http://cuberule.com/), while amusing, grossly misrepresents salads as
+<a name="ft5">[5]</a> In particular, [cuberule](http://cuberule.com/) (while amusing) grossly misrepresents salads as
    carb-less foods. This is clearly preposterous, as it would exclude caesar salads and pasta salads. The Cube Rule
-   theory also is plainly internally inconcistent with the examples it gives. For example, it claims mashed potatoes
-   are a salad due to their lack of starch. Which is the right answer, for the wrong reasons. Mashed potatoes *are*
-   a hyper-salad, but not because they don't contain starch (they have plenty). By Cube Rule, mashed potatoes would
+   theory also is plainly internally inconsistent with the examples it provides. For example, it claims mashed potatoes
+   are a salad due to their lack of carbs. Which is the right answer, for the wrong reasons. Mashed potatoes *are*
+   a hyper-salad, but not because they don't contain carbs (they have plenty of starch). By Cube Rule, mashed potatoes would
    seem to be "toast".
 
 
