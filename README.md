@@ -177,14 +177,24 @@ If you'd like to submit another example or a clarification, PRs are welcome.
 If you'd like to formally dissent with our theory in any way, please submit a github issue.
 
 ## Footnotes
-1. <a name="ft1">It can be trivially shown that a food with soupiness=1 is indistinguishable from a beverage.</a>
-2. <a name="ft2">Much in the same way that a line is formally a low-dimensional hyper-plane.</a>
-3. <a name="ft3">Note that hyper-salads actually *are* closed under subtraction.</a>
-4. <a name="ft4">According to google search trends.</a>
-5. <a name="ft5">Merriam-Webster's</a> <a href="https://www.merriam-webster.com/dictionary/food">definitions of food</a>,
+<a name="ft1">[1]</a> It can be trivially shown that a food with soupiness=1 is indistinguishable from a beverage.
+
+
+<a name="ft2">[2]</a> Much in the same way that a line is formally a low-dimensional hyper-plane.
+
+
+<a name="ft3">[3]</a> Note that hyper-salads actually *are* closed under subtraction.
+
+
+<a name="ft4">[4]</a> According to google search trends.
+
+
+<a name="ft5">[5]</a> Merriam-Webster's <a href="https://www.merriam-webster.com/dictionary/food">definitions of food</a>,
    for example, do seem to at least include candy and mineral water (and by extension, ice made from anything but pure
-   distilled water).</a>
-4. <a name="ft6">Specifically</a>, [cuberule](http://cuberule.com/), while amusing, grossly misrepresents salads as
+   distilled water).
+
+
+<a name="ft6">[6]</a> Specifically, [cuberule](http://cuberule.com/), while amusing, grossly misrepresents salads as
    carb-less foods. This is clearly preposterous, as it would exclude caesar salads and pasta salads. The Cube Rule
    theory also is plainly internally inconcistent with the examples it gives. For example, it claims mashed potatoes
    are a salad due to their lack of starch. Which is the right answer, for the wrong reasons. Mashed potatoes *are*
