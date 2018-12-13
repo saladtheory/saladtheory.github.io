@@ -181,7 +181,7 @@ Here we discuss the authors' review of other theories pertaining to food categor
 ### Cube Rule
 The [cuberule](http://cuberule.com/) theory is amusing, but tragically inconsistent. It also performs poorly against Occam's razor (it has seven rules for categorizing food into different sections). The choice of a cube as opposed to other geometric shapes appears to be entirely arbitrary. Each category both omits common foods colloquially considered to be members of it, while including many foods that colloquially are not in it.
 
-Cuberule food categories are extremely unstable. While amusing, we find it particularly objectionable that merely slicing or biting into a food changes its nature according to cuberule (a calzone is a calzone, but a calzone with a bite taken out of it is a bread bowl). The same applies to a burrito (calzone when fully folded, bread bowl when bitten into). Notably, a burrito with a significant of carbs mixed in on the interior (e.g. burritos often contain rice) would actually be categorized with toast, which is peculiar.
+Cuberule food categories are extremely unstable. While amusing, we find it particularly objectionable that merely slicing or biting into a food changes its nature according to cuberule (a calzone is a calzone, but a calzone with a bite taken out of it is a bread bowl). The same applies to a burrito (calzone when fully folded, bread bowl when bitten into). Notably, a burrito with a significant quantity of carbs mixed in on the interior (e.g. burritos often contain rice) would actually be categorized as toast, which is peculiar.
 
 By category:
 
@@ -193,13 +193,13 @@ By category:
 5. **Soup/Salad w/ Bread Bowl** This section includes breadbowls unless they have any rice etc in them in which case they're toast.
 6. **Calzone** This section includes calzones, jelly-filled donuts, and other such baked goods, as long as you don't cut or bite into them.
 
-Our position is that unintuitive *inclusions* are acceptible so long as there are no unintuitive *exclusions*. But when you have both, it's solid evidence that your rule is wrong.
+Our position is that unintuitive *inclusions* are acceptable so long as there are no unintuitive *exclusions*. But when you have both, it's solid evidence that your rule is wrong.
 
 The examples provided by the cuberule website are also inconsistent with the rules defined by the theory itself. This is not a flaw with the intrinsic theory, but is a criticsm against its presentation (and arguably its intuitiveness, if the author cannot even follow it properly).
 
 For example, they present mashed potatoes, fried rice, and poutine as being salads by their definition, when in fact they'd be toast.
 
-They also say you are "free to intepret the nature of rice however you wish", despite describing fried rice as a salad.
+They also say you are "free to interpret the nature of rice however you wish", despite describing fried rice as a salad.
 
 Their description of a Vanilla Soy Latte as a "three bean soup" is entirely valid but also completely irrelevant to the rest of their theory. By their theory they should actually have called it a "three bean salad".
 
