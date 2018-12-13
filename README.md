@@ -175,6 +175,40 @@ While it may be tempting to align yourself with something as attractive as "stru
 the sad truth is that there is no formal way to define exactly what is and what isn't included in "broader scope
 of ingredients". Likewise, structure is troublesome to define in terms of liquid content, as described in Theorem 1.1.
 
+## Appendix C: Discussion of Alternative Theories
+Here we discuss the authors' review of other theories pertaining to food categorization.
+
+### Cube Rule
+The [cuberule](http://cuberule.com/) theory is amusing, but tragically inconsistent. It also performs poorly against Occam's razor (it has seven rules for categorizing food into different sections). The choice of a cube as opposed to other geometric shapes appears to be entirely arbitrary. Each category both omits common foods colloquially considered to be members of it, while including many foods that colloquially are not in it.
+
+Cuberule food categories are extremely unstable. While amusing, we find it particularly objectionable that merely slicing or biting into a food changes its nature according to cuberule (a calzone is a calzone, but a calzone with a bite taken out of it is a bread bowl). The same applies to a burrito (calzone when fully folded, bread bowl when bitten into). Notably, a burrito with a significant of carbs mixed in on the interior (e.g. burritos often contain rice) would actually be categorized with toast, which is peculiar.
+
+By category:
+
+0. **Salad** Correctly includes a fruit salad, but would omit a caeser salad because of the croutons. It also includes things like steak.
+1. **Toast** correctly includes foods that are called toast. It also includes a bunch of things people don't normally think of as to toast, like pizza and nigiri sushi.
+2. **Sandwich** Correctly includes most sandwiches, but not all. It excludes sub sandwiches where the bread is connected on one side (e.g., like a sandwich you'd pick up from subway). It also would include some peculiar foods, like a single layer of lasagna.
+3. **Taco** This correctly includes tacos, but questionably includes things like slices of pie.
+4. **Sushi** This category includes maki sushi, but excludes nigiri and sashimi. It also includes an unclosed burrito and a taquito.
+5. **Soup/Salad w/ Bread Bowl** This section includes breadbowls unless they have any rice etc in them in which case they're toast.
+6. **Calzone** This section includes calzones, jelly-filled donuts, and other such baked goods, as long as you don't cut or bite into them.
+
+Our position is that unintuitive *inclusions* are acceptible so long as there are no unintuitive *exclusions*. But when you have both, it's solid evidence that your rule is wrong.
+
+The examples provided by the cuberule website are also inconsistent with the rules defined by the theory itself. This is not a flaw with the intrinsic theory, but is a criticsm against its presentation (and arguably its intuitiveness, if the author cannot even follow it properly).
+
+For example, they present mashed potatoes, fried rice, and poutine as being salads by their definition, when in fact they'd be toast.
+
+They also say you are "free to intepret the nature of rice however you wish", despite describing fried rice as a salad.
+
+Their description of a Vanilla Soy Latte as a "three bean soup" is entirely valid but also completely irrelevant to the rest of their theory. By their theory they should actually have called it a "three bean salad".
+
+
+### Soup-Salad-Sandwich Space
+The [soup-salad-sandwich space](http://sandwichspace.xyz/) theory attempts to plot all foods along three axes: soups, salads, and sandwiches.
+
+I’m 100% supportive of attempts to project food into 3-dimensional space, but it just doesn’t make sense to have salads and sandwiches as linearly independent axes.
+
 ## Community
 If you'd like to submit another example or a clarification, PRs are welcome.
 
@@ -201,7 +235,7 @@ If you'd like to formally dissent with our theory in any way, please submit a gi
    theory also is plainly internally inconsistent with the examples it provides. For example, it claims mashed potatoes
    are a salad due to their lack of carbs. Which is the right answer, for the wrong reasons. Mashed potatoes *are*
    a hyper-salad, but not because they don't contain carbs (they have plenty of starch). By Cube Rule, mashed potatoes would
-   seem to be "toast".
+   seem to be "toast". See Appendix C.
 
 
 <sub>*All opinions are my own and do not necessarily reflect the positions of my employer or any other organizations I am affiliated with.*<sub>
