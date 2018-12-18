@@ -10,10 +10,10 @@ The answer to that question shocked and appalled us. Inescapably, a pizza *was a
 
 Many heated lunchtime conversations ensued. We attacked the problem from different angles. We debated the merits of novel definitions. People got sick of it and avoided some of us at lunch.
 
-But the truth could not be avoided. Begrudingly, the office pedants were forced to reach an agreement: All edible foods are salads.
+But the truth could not be avoided. Begrudingly, the office pedants were forced to reach an agreement: All edible foods <sup>[[1]](#ft1)</sup> are salads.
 
 We wrote up our conclusions in an internal document in May 2017. We were content to keep this dark knowledge to ourselves, but alas.
-Spurred by the release of food category theories which clearly misrepresent the nature of salads<sup>[[5]](#ft5)</sup>, the time has come to share our
+Spurred by the release of food category theories which clearly misrepresent the nature of salads<sup>[[4]](#ft4)</sup>, the time has come to share our
 findings with the world.
 
 ## Derivation
@@ -100,12 +100,26 @@ This is actually broader than our definition: we restrict ours to edible ingredi
 ## The Theory
 ### Theorem 1: Soup-Salad Duality
 
-All foods are formally affine combinations of soups and hyper-salads. We describe this measure as a food’s “soupiness” coefficient, where a food with soupiness=0 contains no exterior liquid, and a food with soupiness=1 contains no solid components <sup>[[1]](#ft1)</sup>.
+All foods <sup>[[1]](#ft1)</sup> are formally affine combinations of soups and hyper-salads. We describe this measure as a food’s “soupiness” coefficient, where a food with soupiness=0 contains no exterior liquid, and a food with soupiness=1 contains no solid components.
 
-Colloquially, foods which have soupiness above a certain value tend to be regarded as “soups” (with their liquid components being considered to be “broth”), whereas foods which have soupiness below a certain value tend to be regarded as “salads” (with their liquid components being considered to be “dressing”). With the possible exception of the boundaries (foods which have a soupiness of exactly 0 or 1), Salad Theory does not formally recognize a meaningful distinction between a soupy salad or a salady soup. That is:
+Colloquially, foods which have soupiness above a certain value tend to be regarded as “soups” (with their liquid components being considered to be “broth”), whereas foods which have soupiness below a certain value tend to be regarded as “salads” (with their liquid components being considered to be “dressing”). With the possible exception of the boundaries (foods which have a soupiness of exactly 0 or 1), Salad Theory does not formally recognize a meaningful distinction between a soupy hyper-salad or a salady soup. That is:
 
-#### Theorem 1.1
+#### Theorem 1.1: Soupiness Lemma
 There does not exist a real number `x`, `0 < x < 1` such that all foods with a soupiness less than x are strictly salads, and all foods with a soupiness coefficient greater than x are strictly soups.
+
+#### Theorem 1.2: Beverage Lemma
+There is no formal way to distinguish a beverage from a soup with no solid components. Some might claim that substances commonly included in beverages are invalid as foods, but counterexamples to this postulate abound.
+
+Beverage substance | Foods with same substance
+------------------ | ------------------------
+Water              | Almost everything, especially "soups".
+Beer               | Beer batter, many poultry roasts.
+Milk               | Many sauces and batters.
+Soda               | Coca-Cola BBQ sauce
+
+Furthermore, it is impossible to even exclude beverages which "only" contain a single liquid substance, because doing so would
+exclude many colloquial foods (such as tomato soup).
+
 
 Given that “soups” and “salads” are not meaningfully distinct, we arbitrarily prefer the latter term in most formal discourse.
 
@@ -155,13 +169,16 @@ Chicken soup is obviously a salad, even by fairly restrictive definitions (such 
 A bowl of nuts is clearly a salad. This isn't very radical; people often include almond slivers and pine nuts in their typical lettuce-based salads.
 
 ### Coke with ice
-A coke with ice is a salad. It has multiple edible ingredients. The coke is the dressing (or equivalently, the broth of the coke soup).
-
-Note that we tried for a while to restrict our definition of "salad" to ingredients which were food. Unfortunately, we failed
-to find a self-consistent definition of food<sup>[[4]](#ft4)</sup> that didn't simply encompass all edible materials.
+A coke with ice is a salad. It has multiple edible ingredients <sup>[[1]](#ft1)</sup>. The coke is the dressing (or equivalently, the broth of the coke soup). See also: Theorem 1.2.
 
 ### A bowl of skittles
 A bowl of skittles is a dry salad.
+
+### A glass of water
+A glass of water without ice is a low-entropy hyper-salad. It is not a full salad because it has only a single ingredient (it doesn't have enough
+ingredient entropy).
+
+A glass of water *with* ice is a salad, but only barely.
 
 ## Appendix B: Salad Alignment
 In the style of the similar chart regarding sandwiches, we produced a salad alignment chart.
@@ -216,7 +233,10 @@ If you'd like to submit another example or a clarification, PRs are welcome.
 If you'd like to formally dissent with our theory in any way, please submit a github [issue](https://github.com/saladtheory/saladtheory.github.io/issues).
 
 ## Footnotes
-<a name="ft1">[1]</a> It can be trivially shown that a food with soupiness=1 is indistinguishable from a beverage.
+<a name="ft1">[1]</a> We consider "food" to describe anything edible. We sought long and hard for a more restrictive interpretation.
+Unfortunately, we failed to find a self-consistent definition of food that included everything colloquially considered to be "food" and
+ didn't simply encompass all edible materials. Merriam-Webster's [definitions of food](https://www.merriam-webster.com/dictionary/food),
+for example, do seem to at least include candy and water (and by extension, ice). 
 
 
 <a name="ft2">[2]</a> Much in the same way that a line is formally a low-dimensional hyper-plane.
@@ -225,12 +245,7 @@ If you'd like to formally dissent with our theory in any way, please submit a gi
 <a name="ft3">[3]</a> According to google search trends.
 
 
-<a name="ft4">[4]</a> Merriam-Webster's [definitions of food](https://www.merriam-webster.com/dictionary/food),
-   for example, do seem to at least include candy and mineral water (and by extension, ice made from anything but pure
-   distilled water).
-
-
-<a name="ft5">[5]</a> In particular, [cuberule](http://cuberule.com/) (while amusing) grossly misrepresents salads as
+<a name="ft4">[4]</a> In particular, [cuberule](http://cuberule.com/) (while amusing) grossly misrepresents salads as
    carb-less foods. This is clearly preposterous, as it would exclude caesar salads and pasta salads. The Cube Rule
    theory also is plainly internally inconsistent with the examples it provides. For example, it claims mashed potatoes
    are a salad due to their lack of carbs. Which is the right answer, for the wrong reasons. Mashed potatoes *are*
